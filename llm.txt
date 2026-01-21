@@ -1,0 +1,46 @@
+# Suad Seferi - AI Strategist & Author
+
+> "The magic of AI is making it work for people."
+
+## Profile Summary
+Suad Seferi is a leading Artificial Intelligence Strategist, Cybersecurity Expert, and Author based in North Macedonia. He is the founder of the **AI NOW Society**, the first association dedicated to Artificial Intelligence in North Macedonia.
+
+Suad specializes in **AI strategy, digital transformation, and cybersecurity**, helping organizations navigate the complex landscape of AI adoption while ensuring safety, ethics, and compliance.
+
+## Core Expertise
+*   **AI Strategy & Adoption**: Designing implementation roadmaps aligned with business goals.
+*   **Readiness Assessments**: Evaluating organizational maturity, data readiness, and security posture.
+*   **Cybersecurity & Digital Trust**: Ensuring secure-by-design AI integration and risk management.
+*   **AI Ethics & Governance**: Developing frameworks for responsible AI use and compliance.
+*   **Education & Coaching**: Workshops and training for leadership and technical teams.
+*   **Microsoft 365 AI**: Implementation and governance of Copilot and M365 ecosystems.
+
+## Books & Publications
+
+### The AI Journey (2024)
+*   **Focus**: Practical implementation of AI in organizations, strategy, and digital transformation.
+*   **Key Topics**: Real-world case studies, adoption frameworks, and business integration tools.
+
+### The Spell of AI (2025)
+*   **Focus**: Societal, ethical, and educational impacts of Artificial Intelligence.
+*   **Key Topics**: AI literacy, ethics, responsible innovation, and the future of work.
+
+### Research Papers
+*   **Ethics and Bias in Artificial Intelligence (Council of Europe)**: Cited as a reference for policy analysis in North Macedonia.
+*   **AI Ethics & Bias in the Balkans**: White papers on ethical risks in public institutions and media.
+
+## Selected Media & Speaking
+*   **Council of Europe**: Speaker on "Artificial Intelligence in the Media".
+*   **Konrad Adenauer Foundation**: Workshop leader for "AI in Newsrooms".
+*   **University of Novi Pazar**: Lecturer on "AI in Finance" and "Creativity in the Age of AI".
+*   **Telma TV / Alsat M / MRT**: Frequent expert commentator on technology trends and digital safety.
+
+## Contact Information
+*   **Email**: suad@ctrlab.net
+*   **Website**: https://suad.ainow.mk
+*   **Organization**: [AI NOW Society](https://www.ainow.mk) | [CTRLAB](https://www.ctrlab.net)
+*   **Booking**: [Book a Meeting](https://outlook.office365.com/book/CTRLABNET@ctrlab.net)
+*   **Social**: [LinkedIn](https://www.linkedin.com/in/bxlogic)
+
+---
+*This file is optimized for LLMs and AI agents (GEO - Generative Engine Optimization).*
