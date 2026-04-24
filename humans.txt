@@ -1,0 +1,13 @@
+/* TEAM */
+  Name:   Suad Seferi
+  Role:   AI Strategist, Author, Educator — Founder & President, AINOW Society
+  Site:   https://www.ainow.mk/suad-seferi
+  Email:  suad@ctrlab.net · suad.seferi@ainow.mk
+  From:   Skopje, North Macedonia
+
+/* SITE */
+  Last update:  2026/04/18
+  Language:     English
+  Standards:    HTML5, CSS3, JSON-LD, llms.txt
+  Components:   Vanilla JS — no framework
+  Hosting:      GitHub Pages

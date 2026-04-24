@@ -1,0 +1,65 @@
+# Suad Seferi — AI Consultant
+
+> Suad Seferi is an AI Consultant, Strategist, and Author based in Skopje, North Macedonia. He is the founder and president of AINOW Society, the first association for artificial intelligence in North Macedonia. As an AI consultant he works with businesses, public institutions, media organizations, and educational institutions on AI adoption, AI readiness assessments, digital transformation, cybersecurity, and AI ethics. He delivers AI consulting engagements, workshops, and executive training across the Balkans, and is a cited reference author for the Council of Europe on AI in media.
+
+- Name: Suad Seferi
+- Role: AI Consultant · AI Strategist · Author · Educator
+- Also known as: AI Advisor, AI Coach, AI Ethics Consultant
+- Organization: Founder & President, AINOW Society (https://www.ainow.mk/) — the first association for artificial intelligence in North Macedonia
+- Location: Skopje, North Macedonia
+- Email: suad@ctrlab.net · suad.seferi@ainow.mk
+- Website: https://suadseferi.github.io/personal/
+- LinkedIn: https://www.linkedin.com/in/bxlogic/
+- Amazon Author Page: https://www.amazon.com/stores/author/B0D9R3LS5P
+- AINOW profile: https://www.ainow.mk/suad-seferi
+
+## Expertise
+
+- AI readiness and cybersecurity assessments
+- AI implementation roadmaps for business processes, regulation, and security
+- Secure AI integration (data privacy, cybersecurity, compliance, secure-by-design)
+- Training and coaching on AI adoption, secure AI use, digital safety, cyber hygiene
+- AI project monitoring and measurable impact
+- Microsoft 365 Copilot, Teams, SharePoint, Power Platform governance
+- AI ethics, bias mitigation, responsible innovation
+- AI literacy for students, educators, professionals, policymakers
+
+## Books
+
+- [The AI Journey](https://www.amazon.co.uk/AI-Journey-Mr-Suad-Seferi/dp/B0D6RX8GVN) (2024) — Practical implementation of AI in organizations: strategy, adoption, digital transformation, case studies, and tools for leaders and teams.
+- [The Spell of AI — A World Without a Pause](https://www.amazon.co.uk/Spell-AI-World-Without-Pause-ebook/dp/B0FCYFGCYT) (2025) — Societal, ethical, and educational aspects of AI: literacy, ethics, responsible innovation. ISBN 9798288566073.
+
+## Newsletter
+
+- [The AI Playbook](https://www.linkedin.com/newsletters/the-ai-playbook-7178334521149276160) — Long-running LinkedIn newsletter on practical AI adoption, ethics, and digital transformation — written for practitioners and decision-makers.
+
+## Research Papers (2026)
+
+- [Macedonian AI Data 2026 — A Strategy for Digital Sovereignty](https://www.researchgate.net/publication/400796236_Macedonian_AI_Data_2026_A_Strategy_for_Digital_Sovereignty) — Strategy paper on digital sovereignty and AI data governance in North Macedonia.
+- [Western Balkans 2026 — Fintech & AI Investment Case](https://www.researchgate.net/publication/403672056_Western_Balkans_2026_Fintech_AI_Investment_Case) — Investment case for fintech and AI across the Western Balkans.
+
+## Ethics White Papers
+
+- Ethics and Bias in Artificial Intelligence — North Macedonia & the Balkans (with Sanja Adzaip and Sead Dzigal). Cited by the Council of Europe as a reference for policy and regulatory analysis of AI in the media of North Macedonia. [Council of Europe](https://www.coe.int/en/web/freedom-expression/-/artificial-intelligence-in-the-media-toward-smarter-regulation-in-north-macedonia) · [ResearchGate](https://www.researchgate.net/publication/399882630_Etika_i_pristrasnost_vo_Vestacka_Inteligencija)
+- Artificial Intelligence Governance and Ethics in Bosnia and Herzegovina (with Maja Mirković). Prepared for the [Western Balkans Info Hub](https://westernbalkans-infohub.eu/documents/artificial-intelligence-governance-and-ethics-in-bosnia-and-herzegovina/).
+
+## Selected Speaking
+
+- AI Without Filters — Startup Club Skopje, 2026 (AINOW Society)
+- Council of Europe — Artificial Intelligence in the Media of North Macedonia (reference author)
+- Konrad Adenauer Foundation — AI in Newsrooms, Challenges & Opportunities (Kruševo)
+- University of Novi Pazar — Promotion of The AI Journey and workshops
+- ZNM (Association of Journalists of Macedonia) — Academy T-AJM, New Technologies & Digital Security
+- Hibrid.info — The Chatbot Version of Truth (research and panel)
+- Саем на книгата 2025, Skopje — panel "Who is the Author in the Age of AI?" with AINOW Society
+- International Balkan University — Guest lecturer, AI and book promotion
+- MCEC Macedonia — AI & Cybersecurity workshop for educators
+
+## Ethos
+
+Suad emphasizes responsible, secure, and ethical AI adoption. His work focuses on privacy, fairness, transparency, and cybersecurity — making AI adoption technically feasible, sustainable, secure, and culturally aligned with each organization.
+
+## Contact
+
+- suad@ctrlab.net
+- suad.seferi@ainow.mk

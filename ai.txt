@@ -1,0 +1,12 @@
+# ai.txt — AI crawler policy for suadseferi.github.io
+# This site's content may be used by AI systems for indexing, search,
+# and user-initiated retrieval. Training-data use is permitted when
+# attribution to Suad Seferi and https://suadseferi.github.io/personal/ is preserved.
+
+User-Agent: *
+Allow: /
+Allow-AI-Training: yes
+Allow-AI-Search: yes
+Attribution: Suad Seferi — https://suadseferi.github.io/personal/
+
+# Contact for questions: suad@ctrlab.net
